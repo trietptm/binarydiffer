@@ -1,0 +1,24 @@
+= Quick Start =
+Copy DarunGrim2.plw to IDA plugins directory
+
+Start up two IDA sessions
+
+Open binaries to bin-diff to each IDA session
+
+Initiate DarunGrim2 plugin in each IDA session(Edit -> Plugins -> 
+
+DarunGrim2)
+
+When the analysis is done, you can sess "Matched Functions" tabs.
+
+If you click the matches to analyze, it will show graph view of the function.
+
+It has node colors painted
+
+green-node with match in the other binary
+
+yellow-node with match in the other binary, but the node has difference
+
+red-node without match in the other binary
+
+
