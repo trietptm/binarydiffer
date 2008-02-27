@@ -9,7 +9,7 @@ Initiate DarunGrim2 plugin in each IDA session(Edit -> Plugins ->
 
 DarunGrim2)
 
-When the analysis is done, you can sess "Matched Functions" tabs.
+When the analysis is done, you can see "Matched Functions" tabs.
 
 If you click the matches to analyze, it will show graph view of the function.
 
@@ -20,5 +20,3 @@ green-node with match in the other binary
 yellow-node with match in the other binary, but the node has difference
 
 red-node without match in the other binary
-
-
