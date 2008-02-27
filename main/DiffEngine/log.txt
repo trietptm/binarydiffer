@@ -1,0 +1,149 @@
+Sat Jan 27 09:20:47 2007: Waiting for client to connect...
+Sat Jan 27 09:22:13 2007: Client connected.
+Sat Jan 27 09:22:13 2007: p_analysis_info=352598
+Sat Jan 27 09:23:16 2007: End of Analysis
+Sat Jan 27 09:23:16 2007: address_hash_map 284855 entries
+fingerprint_hash_map 267097 entries
+name_hash_map 27750 entries
+map_info_hash_map 1141688 entries
+Sat Jan 27 09:25:01 2007: Client connected.
+Sat Jan 27 09:25:01 2007: p_analysis_info=156188d8
+Sat Jan 27 09:26:21 2007: End of Analysis
+Sat Jan 27 09:26:21 2007: address_hash_map 284846 entries
+fingerprint_hash_map 267184 entries
+name_hash_map 27738 entries
+map_info_hash_map 1144200 entries
+Sat Jan 27 09:26:21 2007: Start diffing...
+Sat Jan 27 09:26:21 2007: Diff 267097-267184
+Sat Jan 27 09:26:30 2007: name matched number=7863
+Sat Jan 27 09:29:27 2007: fingerprint matched number=59283
+Sat Jan 27 09:47:43 2007: Waiting for client to connect...
+Sat Jan 27 09:48:05 2007: Client connected.
+Sat Jan 27 09:48:05 2007: p_analysis_info=352598
+Sat Jan 27 09:48:08 2007: Client connected.
+Sat Jan 27 09:48:08 2007: p_analysis_info=195fb60
+Sat Jan 27 09:49:52 2007: End of Analysis
+Sat Jan 27 09:49:52 2007: address_hash_map 284846 entries
+fingerprint_hash_map 267184 entries
+name_hash_map 27738 entries
+map_info_hash_map 1144200 entries
+Sat Jan 27 09:50:26 2007: End of Analysis
+Sat Jan 27 09:50:26 2007: address_hash_map 284855 entries
+fingerprint_hash_map 267097 entries
+name_hash_map 27750 entries
+map_info_hash_map 1141688 entries
+Sat Jan 27 09:50:26 2007: Start diffing...
+Sat Jan 27 09:50:26 2007: Diff 267184-267097
+Sat Jan 27 09:50:40 2007: name matched number=7863
+Sat Jan 27 09:53:45 2007: fingerprint matched number=59283
+Sat Jan 27 10:26:56 2007: map tree match=323813
+Sun Jan 28 00:23:22 2007: Waiting for client to connect...
+Sun Jan 28 00:48:11 2007: Client connected.
+Sun Jan 28 00:48:11 2007: p_analysis_info=352598
+Sun Jan 28 00:49:18 2007: End of Analysis
+Sun Jan 28 00:49:18 2007: address_hash_map 284855 entries
+fingerprint_hash_map 267097 entries
+name_hash_map 27750 entries
+map_info_hash_map 1141688 entries
+Sun Jan 28 00:51:15 2007: Client connected.
+Sun Jan 28 00:51:15 2007: p_analysis_info=156188d8
+Sun Jan 28 00:52:41 2007: End of Analysis
+Sun Jan 28 00:52:41 2007: address_hash_map 284846 entries
+fingerprint_hash_map 267184 entries
+name_hash_map 27738 entries
+map_info_hash_map 1144200 entries
+Sun Jan 28 00:52:41 2007: Start diffing...
+Sun Jan 28 00:52:41 2007: Diff 267097-267184
+Sun Jan 28 00:53:05 2007: name matched number=7863
+Sun Jan 28 01:05:11 2007: fingerprint matched number=59283
+Sun Jan 28 01:10:14 2007: map tree match=323800
+Sun Jan 28 01:15:26 2007: map tree match=328394
+Sun Jan 28 01:19:18 2007: map tree match=329212
+Sun Jan 28 01:22:59 2007: map tree match=329340
+Sun Jan 28 01:27:46 2007: map tree match=329368
+Sun Jan 28 01:31:59 2007: map tree match=329387
+Sun Jan 28 01:36:55 2007: map tree match=329399
+Sun Jan 28 01:47:27 2007: map tree match=329409
+Sun Jan 28 02:02:57 2007: map tree match=329414
+Sun Jan 28 02:32:35 2007: map tree match=329420
+Sun Jan 28 05:04:29 2007: map tree match=329421
+Sun Jan 28 08:16:18 2007: map tree match=329421
+Sun Jan 28 11:43:23 2007: map tree match=329421
+Sun Jan 28 15:55:52 2007: map tree match=329421
+Sun Jan 28 20:25:43 2007: map tree match=329421
+Mon Jan 29 00:30:05 2007: map tree match=329421
+Mon Jan 29 05:13:57 2007: map tree match=329421
+Mon Jan 29 11:01:51 2007: Waiting for client to connect...
+Mon Jan 29 11:02:59 2007: Client connected.
+Mon Jan 29 11:02:59 2007: p_analysis_info=352548
+Mon Jan 29 11:03:01 2007: Client connected.
+Mon Jan 29 11:03:01 2007: p_analysis_info=14f1248
+Mon Jan 29 11:17:27 2007: End of Analysis
+Mon Jan 29 11:17:27 2007: address_hash_map 284846 entries
+fingerprint_hash_map 267184 entries
+name_hash_map 27738 entries
+map_info_hash_map 1144200 entries
+Mon Jan 29 11:18:16 2007: End of Analysis
+Mon Jan 29 11:18:16 2007: address_hash_map 284855 entries
+fingerprint_hash_map 267097 entries
+name_hash_map 27750 entries
+map_info_hash_map 1141688 entries
+Mon Jan 29 11:18:16 2007: Start diffing...
+Mon Jan 29 11:18:16 2007: Diff 267184-267097
+Mon Jan 29 11:21:02 2007: name matched number=7863
+Mon Jan 29 12:00:24 2007: fingerprint matched number=59283
+Mon Jan 29 12:02:18 2007: map tree match=323813
+Mon Jan 29 12:03:29 2007: Cleaning p_current_match_map
+Mon Jan 29 12:03:30 2007: map tree match=328385
+Mon Jan 29 12:04:24 2007: Cleaning p_current_match_map
+Mon Jan 29 12:04:26 2007: map tree match=329204
+Mon Jan 29 12:05:04 2007: Cleaning p_current_match_map
+Mon Jan 29 12:05:05 2007: map tree match=329328
+Mon Jan 29 12:05:44 2007: Cleaning p_current_match_map
+Mon Jan 29 12:05:45 2007: map tree match=329366
+Mon Jan 29 12:06:24 2007: Cleaning p_current_match_map
+Mon Jan 29 12:06:25 2007: map tree match=329384
+Mon Jan 29 12:07:03 2007: Cleaning p_current_match_map
+Mon Jan 29 12:07:05 2007: map tree match=329397
+Mon Jan 29 12:07:43 2007: Cleaning p_current_match_map
+Mon Jan 29 12:07:44 2007: map tree match=329405
+Mon Jan 29 12:08:22 2007: Cleaning p_current_match_map
+Mon Jan 29 12:08:23 2007: map tree match=329410
+Mon Jan 29 12:09:00 2007: Cleaning p_current_match_map
+Mon Jan 29 12:09:02 2007: map tree match=329420
+Mon Jan 29 12:09:39 2007: Cleaning p_current_match_map
+Mon Jan 29 12:09:41 2007: map tree match=329421
+Mon Jan 29 12:10:18 2007: Cleaning p_current_match_map
+Mon Jan 29 12:10:19 2007: map tree match=329421
+Mon Jan 29 12:10:57 2007: Cleaning p_current_match_map
+Mon Jan 29 12:10:58 2007: map tree match=329421
+Mon Jan 29 12:11:36 2007: Cleaning p_current_match_map
+Mon Jan 29 12:11:37 2007: map tree match=329421
+Mon Jan 29 12:12:15 2007: Cleaning p_current_match_map
+Mon Jan 29 12:12:16 2007: map tree match=329421
+Mon Jan 29 12:12:53 2007: Cleaning p_current_match_map
+Mon Jan 29 12:12:55 2007: map tree match=329421
+Mon Jan 29 12:13:32 2007: Cleaning p_current_match_map
+Mon Jan 29 12:13:33 2007: map tree match=329421
+Mon Jan 29 12:14:11 2007: Cleaning p_current_match_map
+Mon Jan 29 12:14:13 2007: map tree match=329421
+Mon Jan 29 12:14:50 2007: Cleaning p_current_match_map
+Mon Jan 29 12:14:51 2007: map tree match=329421
+Mon Jan 29 12:15:29 2007: Cleaning p_current_match_map
+Mon Jan 29 12:15:31 2007: map tree match=329421
+Mon Jan 29 12:16:08 2007: Cleaning p_current_match_map
+Mon Jan 29 12:16:09 2007: map tree match=329421
+Mon Jan 29 12:16:47 2007: Cleaning p_current_match_map
+Mon Jan 29 12:16:48 2007: map tree match=329421
+Mon Jan 29 12:17:26 2007: Cleaning p_current_match_map
+Mon Jan 29 12:17:27 2007: map tree match=329421
+Mon Jan 29 12:18:06 2007: Cleaning p_current_match_map
+Mon Jan 29 12:18:07 2007: map tree match=329421
+Mon Jan 29 12:18:45 2007: Cleaning p_current_match_map
+Mon Jan 29 12:18:46 2007: map tree match=329421
+Mon Jan 29 12:19:24 2007: Cleaning p_current_match_map
+Mon Jan 29 12:19:25 2007: map tree match=329421
+Mon Jan 29 12:20:03 2007: Cleaning p_current_match_map
+Mon Jan 29 12:20:04 2007: map tree match=329421
+Mon Jan 29 14:16:19 2007: Waiting for client to connect...
+Mon Jan 29 15:01:55 2007: Waiting for client to connect...
