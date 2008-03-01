@@ -1,4 +1,5 @@
 = Quick Start =
+#
  # Copy BinaryDiffer.plw to IDA plugins directory
  # Start BinaryDiffer.exe
  # Start up two IDA sessions and open binaries to diff to each IDA session
