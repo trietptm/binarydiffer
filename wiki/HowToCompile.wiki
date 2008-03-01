@@ -1,0 +1,9 @@
+#How to Compile
+
+= Prerequisite =
+
+vc++,플랫폼 sdk,ida sdk가 필요하다.
+
+= Details =
+
+Run inst.bat in each directory.
