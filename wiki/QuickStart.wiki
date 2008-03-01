@@ -1,11 +1,11 @@
 = Quick Start =
-  # Copy BinaryDiffer.plw to IDA plugins directory
-  # Start BinaryDiffer.exe
-  # Start up two IDA sessions and open binaries to diff to each IDA session
-  # Initiate BinaryDiffer plugin in each IDA session(Edit -> Plugins -> ”Binary Differ”)
-  # When the analysis is done, you can see "Matched Functions" tabs.
-  # If you click the matches to analyze, it will show graph view of the function.
-  # It has node colors painted
+# Copy BinaryDiffer.plw to IDA plugins directory
+# Start BinaryDiffer.exe
+# Start up two IDA sessions and open binaries to diff to each IDA session
+# Initiate BinaryDiffer plugin in each IDA session(Edit -> Plugins -> ”Binary Differ”)
+# When the analysis is done, you can see "Matched Functions" tabs.
+# If you click the matches to analyze, it will show graph view of the function.
+# It has node colors painted
 
 green-node with match in the other binary
 yellow-node with match in the other binary, but the node has difference
