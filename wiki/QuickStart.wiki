@@ -1,6 +1,6 @@
 = Quick Start =
   # Copy BinaryDiffer.plw to IDA plugins directory
-  # Start BinaryDiffer.exe
+  Start BinaryDiffer.exe
   # Start up two IDA sessions and open binaries to diff to each IDA session
   # Initiate BinaryDiffer plugin in each IDA session(Edit -> Plugins -> ”Binary Differ”)
   # When the analysis is done, you can see "Matched Functions" tabs.
