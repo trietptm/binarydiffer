@@ -6,7 +6,7 @@
  # When the analysis is done, you can see "Matched Functions" tabs.
  # If you click the matches to analyze, it will show graph view of the function.
  # It has node colors painted
-
+||Color||Meaning||
 ||green-node||It has match in the other binary||
 ||yellow-node||It has match in the other binary, but the node has difference||
 ||red-node||It has match in the other binary||
