@@ -10,3 +10,18 @@
 green-node with match in the other binary
 yellow-node with match in the other binary, but the node has difference
 red-node without match in the other binary
+
+
+* bullets
+## numbered list depth two
+
+* bullets
+** indented bullets
+# numbered list
+# numbered list
+## indented list
+## indented list
+### depth 3 indented list
+### more
+## and more
+# and more
