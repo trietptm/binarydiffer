@@ -9,4 +9,4 @@
 ||Color||Meaning||
 ||green-node||It has match in the other binary||
 ||yellow-node||It has match in the other binary, but the node has difference||
-||red-node||It has match in the other binary||
+||red-node||It doesn't have match in the other binary||
