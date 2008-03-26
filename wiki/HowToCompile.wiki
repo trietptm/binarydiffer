@@ -5,7 +5,7 @@
 vc++,플랫폼 sdk,ida sdk가 필요하다.
 
 = Details =
-1.You must get a IDA SDK and edit the Makefile in Plugin,
+1.You must get a IDA SDK and edit the Makefile in Plugin.
 2.Edit the first line in inst.bat to fit your condition.
 3.Run inst.bat in each directory.
 
