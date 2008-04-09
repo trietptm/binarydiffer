@@ -1,4 +1,3 @@
-= Screenshots =
 
 == MS08-021 ==
 
