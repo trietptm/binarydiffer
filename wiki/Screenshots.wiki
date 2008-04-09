@@ -7,5 +7,5 @@ Screenshots
 || post || gdi32.dll || 5.1.2600.3316 on WinXP sp2 ||
 
 
-
+[http://code.google.com/ http://code.google.com/images/code_sm.png]
 [http://lh6.google.com/sunghun.hyun/R_xO3SR4seI/AAAAAAAAACM/WiJr-LrZcDk/s144/ms08_021.jpg http://lh6.google.com/sunghun.hyun/R_xO3SR4seI/AAAAAAAAACM/WiJr-LrZcDk/s144/ms08_021.jpg]
