@@ -1,11 +1,11 @@
 Screenshots 
 
-= Screenshots of MS08-021 =
+= MS08-021 =
 
-prepatched binary : gdi32.dll 5.1.2600.3159 on WinXP sp2
-postpatched binary : gdi32.dll 5.1.2600.3316 on WinXP sp2
+|| || *Filename*|| *Version* ||
+|| pre || gdi32.dll || 5.1.2600.3159 on WinXP sp2 ||
+|| post || gdi32.dll || 5.1.2600.3316 on WinXP sp2 ||
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+
+[http://lh6.google.com/sunghun.hyun/R_xO3SR4seI/AAAAAAAAACM/WiJr-LrZcDk/s144/ms08_021.jpg http://lh6.google.com/sunghun.hyun/R_xO3SR4seI/AAAAAAAAACM/WiJr-LrZcDk/s144/ms08_021.jpg]
