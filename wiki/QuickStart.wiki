@@ -7,6 +7,7 @@
  # If you click the matches to analyze, it will show graph view of the function.
  # It has node colors painted
 ||Color||Meaning||
-||green-node||It has match in the other binary||
-||yellow-node||It has match in the other binary, but the node has difference||
-||red-node||It doesn't have match in the other binary||
+||green||It has match in the other binary||
+||yellow||It has match in the other binary, but the node has difference||
+||red||The node is severely modified||
+||white||It doesn't have match in the other binary||
