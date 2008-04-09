@@ -1,12 +1,9 @@
-#summary One-sentence summary of this page.
-#labels screenshot
+Screenshots 
 
-= Introduction =
+= Screenshots of MS08-021 =
 
-Add your content here.
-
-
-= Details =
+prepatched binary : gdi32.dll 5.1.2600.3159 on WinXP sp2
+postpatched binary : gdi32.dll 5.1.2600.3316 on WinXP sp2
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
